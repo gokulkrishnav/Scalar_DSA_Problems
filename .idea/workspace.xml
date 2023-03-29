@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="245739d5-5074-4417-a22c-99f19eae16d7" name="Changes" comment="DSA Problems">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Convert_Integer_Tor_Binary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Fibonacci_Sequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/N_Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Transpose_Of_Matrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Fibonacci_Sequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/Fibonacci_Sequence_2DP.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MaxOfArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/MaxOfArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Reverse_An_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/Reverse_An_Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SubArray_Of_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/SubArray_Of_Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SubSets_Of_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/SubSets_Of_Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SumOfArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/SumOfArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/Convert_Integer_Tor_Binary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/Convert_Integer_Tor_Binary.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +58,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679922676535</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="DSA Problems">
+      <created>1680115501348</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1680115501348</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
