@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="245739d5-5074-4417-a22c-99f19eae16d7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ScalarDSAPROBLEMS.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Fibonacci_Sequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MaxOfArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Reverse_An_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SubArray_Of_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SubSets_Of_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SumOfArray.java" afterDir="false" />
+    <list default="true" id="245739d5-5074-4417-a22c-99f19eae16d7" name="Changes" comment="DSA Problems">
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Convert_Integer_Tor_Binary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Fibonacci_Sequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/N_Factorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/Transpose_Of_Matrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Fibonacci_Sequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/Fibonacci_Sequence_2DP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MaxOfArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/MaxOfArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Reverse_An_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/Reverse_An_Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SubArray_Of_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/SubArray_Of_Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SubSets_Of_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/SubSets_Of_Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SumOfArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/SumOfArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +28,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -57,6 +62,14 @@
       <option name="presentableId" value="Default" />
       <updated>1679911519281</updated>
     </task>
+    <task id="LOCAL-00001" summary="DSA Problems">
+      <created>1679922676535</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679922676535</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -69,5 +82,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="DSA Problems" />
+    <option name="LAST_COMMIT_MESSAGE" value="DSA Problems" />
   </component>
 </project>

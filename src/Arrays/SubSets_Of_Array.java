@@ -1,3 +1,5 @@
+package Arrays;
+
 import java.util.*;
 public class SubSets_Of_Array {
     public static void main(String[] args) {
