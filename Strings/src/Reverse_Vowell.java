@@ -3,7 +3,7 @@ import java.util.*;
 public class Reverse_Vowell {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.print("Enter the sentence to reverse the Vovel : ");
+        System.out.print("Enter the sentence to reverse the VoWel : ");
         String str = sc.nextLine();
         reversevoels(str);
 
@@ -41,3 +41,8 @@ public class Reverse_Vowell {
 
     }
 
+
+//OOT PUT FOR ABOVE CODE
+
+//    Enter the sentence to reverse the Vovel : hello bro how are you
+//        hullo bre haw oro yoe
