@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="245739d5-5074-4417-a22c-99f19eae16d7" name="Changes" comment="DSA Problems">
-      <change afterPath="$PROJECT_DIR$/Strings/src/Reverse_Vowell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/src/Upper_Case_To_Lower.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,6 +26,9 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://C:/Program Files/Java/jdk-18.0.2.1/lib/src.zip!/java.base/java/lang/ArrayIndexOutOfBoundsException.java" root0="SKIP_INSPECTION" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -45,7 +48,7 @@
     &quot;last_opened_file_path&quot;: &quot;D:/From desktop/LEARNING/ScalarDSAPROBLEMS&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Reverse_Vowell">
+  <component name="RunManager" selected="Application.Upper_Case_To_Lower">
     <configuration name="Convert_Integer_Tor_Binary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays.Convert_Integer_Tor_Binary" />
       <module name="ScalarDSAPROBLEMS" />
@@ -80,8 +83,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Upper_Case_To_Lower" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Upper_Case_To_Lower" />
+      <module name="Strings" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Upper_Case_To_Lower" />
         <item itemvalue="Application.Reverse_Vowell" />
         <item itemvalue="Application.Print_Ovels" />
         <item itemvalue="Application.Remove_Ovels" />
@@ -126,7 +137,21 @@
       <option name="project" value="LOCAL" />
       <updated>1680202859061</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="DSA Problems">
+      <created>1680260436873</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1680260436873</updated>
+    </task>
+    <task id="LOCAL-00006" summary="DSA Problems">
+      <created>1680260607214</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1680260607214</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
