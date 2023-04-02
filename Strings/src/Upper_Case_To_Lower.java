@@ -6,16 +6,20 @@ public class Upper_Case_To_Lower {
         touppercase(str);
     }
     static void touppercase(String str){
+
         char[] s = str.toCharArray();
+//        char ansch ;
         for(int i =0;i< str.length() -1;i++){
            char ch = s[i];
             if (ch >= 'A' && ch <= 'Z') {
                 char ansch = (char) (ch - 'A' + 'a');
 
             }
-            for(char c:s){
-                System.out.print(c);
-            }
+        }
+        for(char c:s) {
+            System.out.print(c);
+
+
         }
 
 

@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/ScalarDSAPROBLEMS.iml" filepath="$PROJECT_DIR$/ScalarDSAPROBLEMS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sorting_Techniques/Sorting_Techniques.iml" filepath="$PROJECT_DIR$/Sorting_Techniques/Sorting_Techniques.iml" />
       <module fileurl="file://$PROJECT_DIR$/Strings/Strings.iml" filepath="$PROJECT_DIR$/Strings/Strings.iml" />
     </modules>
   </component>
