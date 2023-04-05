@@ -2,8 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="245739d5-5074-4417-a22c-99f19eae16d7" name="Changes" comment="DSA Problems">
+      <change afterPath="$PROJECT_DIR$/LinkedList/LinkedList.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursion/Recursion.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursion/src/Factorial_Using_Recursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursion/src/Find_Index_of_Element_using_Recursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursion/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursion/src/Print_Array_Elements_using_Recursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recursion/src/Recursion_1_to_N.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sorting_Techniques/Sorting_Techniques.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sorting_Techniques/src/Insertion_Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sorting_Techniques/src/Insertion_Sort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,31 +57,31 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Upper_Case_To_Lower">
-    <configuration name="ArrayList_Program" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ArrayList_Program" />
-      <module name="LinkedList" />
+  <component name="RunManager" selected="Application.Factorial_Using_Recursion">
+    <configuration name="Factorial_Using_Recursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Factorial_Using_Recursion" />
+      <module name="Recursion" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Bubble_Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bubble_Sort" />
-      <module name="Sorting_Techniques" />
+    <configuration name="Find_Index_of_Element_using_Recursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Find_Index_of_Element_using_Recursion" />
+      <module name="Recursion" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lenear_Search" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lenear_Search" />
-      <module name="Sorting_Techniques" />
+    <configuration name="Print_Array_Elements_using_Recursion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Print_Array_Elements_using_Recursion" />
+      <module name="Recursion" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Reverse_Vowell" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Reverse_Vowell" />
-      <module name="Strings" />
+    <configuration name="Recursion_1_to_N" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion_1_to_N" />
+      <module name="Recursion" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -87,11 +95,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Factorial_Using_Recursion" />
+        <item itemvalue="Application.Find_Index_of_Element_using_Recursion" />
+        <item itemvalue="Application.Print_Array_Elements_using_Recursion" />
+        <item itemvalue="Application.Recursion_1_to_N" />
         <item itemvalue="Application.Upper_Case_To_Lower" />
-        <item itemvalue="Application.Bubble_Sort" />
-        <item itemvalue="Application.Lenear_Search" />
-        <item itemvalue="Application.ArrayList_Program" />
-        <item itemvalue="Application.Reverse_Vowell" />
       </list>
     </recent_temporary>
   </component>
@@ -153,7 +161,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680465244679</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="DSA Problems">
+      <created>1680602462155</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1680602462155</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
